@@ -1,8 +1,9 @@
 {
-  "devices": [    
+  "devices": [
+    "ESP32_001",
     "ESP32_002",
     "ESP32_003",
     "ESP32_004"
   ],
-  "version": "1.1.5"
+  "version": "1.1.6"
 }
